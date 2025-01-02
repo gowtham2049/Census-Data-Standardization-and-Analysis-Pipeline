@@ -1,8 +1,7 @@
 import sqlalchemy
-import mysql.connector
 import streamlit as st
 import pandas as pd
-from sqlalchemy import create_engine, Table, Column, Integer, String, MetaData,text
+from sqlalchemy import create_engine
 #MySQL database URL
 url = 'mysql://root:mysqlpass%40123@localhost:3306/db_guvi'
 
