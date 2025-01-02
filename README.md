@@ -26,7 +26,7 @@ The **Census Data Standardization and Analysis Pipeline** is a comprehensive sol
 
 ### Objective  
 This project is essential for ensuring that census data is not only reliable but also easily accessible for policymakers, researchers, and analysts. By implementing a robust cleaning, processing, and analysis pipeline, it paves the way for deriving actionable insights and making data-driven decisions.
-
+#### Tools Used : Python, Pandas, Streamlit, MYSQL connector, SQLAlchemy 
 
 # Data Processing Tasks
 
