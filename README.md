@@ -53,7 +53,7 @@ Fetch data from MongoDB and upload it to a relational database with proper const
 To run the Streamlit app that shows the output of the queries, use the following command:
 
 ```bash
-streamlit run <your_file_name.py>
+streamlit run <sttest.py>
 ```
 
 ### Queries for District-Level Analysis:
